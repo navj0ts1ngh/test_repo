@@ -1,0 +1,3 @@
+# feature 2
+# this is one more change
+# this is another change in file for git commit --amend
